@@ -1,0 +1,7 @@
+zerops:
+  - setup: saidlinfo
+    build:
+      deployFiles: ./
+    # ==== how to run your application ====
+    run:
+      base: static

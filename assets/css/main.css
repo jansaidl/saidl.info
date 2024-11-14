@@ -1,0 +1,9 @@
+body {
+    position: relative;
+}
+
+img {
+    position: fixed;
+    bottom: -140px;
+    height: 300px;
+}
